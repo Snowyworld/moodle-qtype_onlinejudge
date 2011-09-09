@@ -1,0 +1,20 @@
+.que.onlinejudge textarea.qtype_onlinejudge_response {
+    width: 100%;
+}
+.que.onlinejudge textarea.qtype_onlinejudge_response.qtype_onlinejudge_plain {
+    white-space: pre-wrap;
+    font: inherit;
+}
+.que.onlinejudge textarea.qtype_onlinejudge_response.qtype_onlinejudge_monospaced {
+    white-space: pre;
+    font-family: Andale Mono, Monaco, Courier New, DejaVu Sans Mono, monospace;
+}
+.que.onlinejudge .qtype_onlinejudge_response {
+    min-height: 3em;
+}
+.que.onlinejudge .qtype_onlinejudge_response.readonly {
+    background-color: white;
+}
+.que.onlinejudge div.qtype_onlinejudge_response textarea {
+    width: 100%;
+}
